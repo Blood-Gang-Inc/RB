@@ -1,12 +1,65 @@
-<ul>
-    <li><code>require(11474365978)("V6")</code></li>
-    <li><code>require(11474380470)("V5")</code></li>
-    <li><code>require(11474274815)("V4")</code></li>
-    <li><code>require(11474320498)("V3")</code></li>
-    <li><code>require(11474341355)("V2")</code></li>
-    <li><code>require(11474349711)("V1")</code></li>
-    <li><code>require(11474356783)("V0")</code></li>
-    <li><code>require(11016984948)("Versions Loader")</code></li>
-    <li><code>require(11803023845)("Message GUI Bypass / Temp Chat Bypass if it's not working")</code></li>
-    <li><code>require(11355396096)("Chat bypass if RB stops working")</code></li>
-</ul>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GitHub Document - Script Requirements</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        header {
+            background-color: #24292e;
+            color: #ffffff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin: 0;
+        }
+
+        p {
+            font-size: 18px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Script Requirements</h1>
+        <p>Scripts required for this project</p>
+    </header>
+
+    <div class="container">
+        <ul>
+            <li><code>require(11474365978)("V6")</code></li>
+            <li><code>require(11474380470)("V5")</code></li>
+            <li><code>require(11474274815)("V4")</code></li>
+            <li><code>require(11474320498)("V3")</code></li>
+            <li><code>require(11474341355)("V2")</code></li>
+            <li><code>require(11474349711)("V1")</code></li>
+            <li><code>require(11474356783)("V0")</code></li>
+            <li><code>require(11016984948)("Versions Loader")</code></li>
+            <li><code>require(11803023845)("Message GUI Bypass / Temp Chat Bypass if it's not working")</code></li>
+            <li><code>require(11355396096)("Chat bypass if RB stops working")</code></li>
+        </ul>
+    </div>
+</body>
+</html>
