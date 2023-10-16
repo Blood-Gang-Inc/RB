@@ -10,7 +10,7 @@
 </h4>
 <div align="center">
     <a href="https://discord.gg/h76YQ6DazC" target="_blank">
-        <img src="https://logos-download.com/wp-content/uploads/2021/01/Discord_Logo-613x700.png" alt="Discord Logo" style="vertical-align: middle;">
+        <img src="https://media.discordapp.net/attachments/338403017894395905/668536741942263808/Discord-Logo-Color.png" alt="Discord Logo" style="vertical-align: middle;">
     </a>
 </div>
 <p>
