@@ -1,4 +1,9 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RB Roblox Script</title>
+</head>
+<body>
     <div align="center">
         <img src="https://www.jguru.com/wp-content/uploads/2021/07/image-134.png">
     </div>
