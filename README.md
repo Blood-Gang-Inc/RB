@@ -31,11 +31,9 @@
         </a>
     </p>
 </div>
-
 <p>
 RB is a Roblox chat functionality script designed to enhance your in-game chat experience.
 </p>
-
 <h2>Features</h2>
 <ul>
     <li>Enhanced Roblox chat functionality</li>
@@ -43,12 +41,10 @@ RB is a Roblox chat functionality script designed to enhance your in-game chat e
     <li>Easy to install and configure</li>
     <li>Supports various Roblox versions</li>
 </ul>
-
 <h2>Requirements</h2>
 <ul>
     <li>Roblox installed on your device</li>
 </ul>
-
 <h2>Getting Started</h2>
 <p>
     To get started with RB, follow the steps below:
@@ -58,7 +54,6 @@ RB is a Roblox chat functionality script designed to enhance your in-game chat e
     <li>Click the "Configure" link to set up RB according to your preferences.</li>
     <li>Refer to the "Docs" link for detailed documentation on RB's features and customization options.</li>
 </ol>
-
 <h2>Supported Versions</h2>
 <p>
     RB supports multiple versions of Roblox. For a complete list of supported versions, please visit our <a href="https://4zx16.github.io/Data/">website</a>.
