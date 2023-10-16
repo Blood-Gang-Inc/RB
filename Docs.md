@@ -10,7 +10,7 @@ To use the Roblox Chat Script, follow these steps:
 
 1. **Choose a Roblox Executor:**
 
-   - Find a suitable Roblox executor, or use the provided one, such as [sa-zserverside](https://github.com/Blood-Gang-Inc/sa-zserverside).
+   - Find a suitable Roblox executor, or use the provided one, such as [Saz SS](https://github.com/Blood-Gang-Inc/sa-zserverside).
 
 2. **Download and Install the Executor:**
 
