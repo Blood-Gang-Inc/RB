@@ -1,0 +1,15 @@
+-- Define the module ID
+local moduleId = 11474365978
+
+-- Try to require the module
+local success, module = pcall(function()
+    return require(moduleId)
+end)
+
+-- Check if requiring the module was successful
+if success then
+    -- Call the module function with the argument
+    module("Username")
+else
+    warn("Failed to require module with ID " .. moduleId)
+end
