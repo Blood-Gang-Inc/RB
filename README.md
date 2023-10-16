@@ -17,7 +17,6 @@
 </div>
 <p>
 RB is a Roblox chat functionality script designed to enhance your in-game chat experience.
-    <a href ="LICENSE.lua">
 </p>
 <h2>Features</h2>
 <ul>
