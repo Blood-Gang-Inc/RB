@@ -2,7 +2,7 @@
     <img src="https://www.jguru.com/wp-content/uploads/2021/07/image-134.png" alt="RB Logo">
 </div>
 <h4 align="center">
-    <a href="https://www.youtube.com/watch?v=EOWGmf0aeR4&pp=ygURcm9ibG94IGluc3RhbGxpb24%3D">Install</a>
+    <a href="https://github.com/Blood-Gang-Inc/RB/releases">Install</a>
     ·
     <a href="https://www.youtube.com/watch?v=aI5SXkPKwnw&t=8s&pp=ygUMNHp4MTYgcm9ibG94">Configure</a>
     ·
