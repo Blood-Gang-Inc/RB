@@ -11,7 +11,7 @@
 <div align="center">
     <p>
         <a href="LICENSE.lua">
-            <img alt="License" src="https://img.shields.io/github/license/Blood-Gang-Inc/RB?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&lab![10d8f1b03544514e5144ee5464ba39d8](https://github.com/Blood-Gang-Inc/RB/assets/122091778/c683a3a6-bc5e-4665-9172-d602af927718)
+            <img alt="License" src="https://img.shields.io/github/license/Blood-Gang-Inc/RB?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&lab![10d8f1b03544514e5144ee5464ba39d8 https://github.com/Blood-Gang-Inc/RB/assets/122091778/c683a3a6-bc5e-4665-9172-d602af927718)
 elColor=302D41" />
         </a>
         <a href="https://twitter.com/intent/follow?screen_name=BloodGangInc">
