@@ -10,9 +10,6 @@
 </h4>
 <div align="center">
     <p>
-        <a href="LICENSE.lua">
-            <img alt="License" src="https://img.shields.io/github/license/LazyVim/LazyVim?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41" />
-        </a>
         <a href="https://twitter.com/intent/follow?screen_name=BloodGangInc">
             <img alt="follow on Twitter" src="https://img.shields.io/twitter/follow/BloodGangInc?style=for-the-badge&logo=twitter&color=8aadf3&logoColor=D9E0EE&labelColor=302D41" />
         </a>
@@ -20,6 +17,7 @@
 </div>
 <p>
 RB is a Roblox chat functionality script designed to enhance your in-game chat experience.
+    <a href ="LICENSE.lua">
 </p>
 <h2>Features</h2>
 <ul>
