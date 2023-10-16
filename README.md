@@ -17,17 +17,8 @@
     </h4>
     <div align="center">
         <p>
-            <a href="https://github.com/Blood-Gang-Inc/RB/releases/latest">
-                <img alt="Latest release" src="https://img.shields.io/github/v/release/Blood-Gang-Inc/RB?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41&include_prerelease&sort=semver" />
-            </a>
             <a href="https://github.com/Blood-Gang-Inc/RB/blob/Roblox/LICENSE.lua">
                 <img alt="License" src="https://img.shields.io/github/license/Blood-Gang-Inc/RB?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41" />
-            </a>
-            <a href="https://github.com/LazyVim/LazyVim/issues">
-                <img alt="Issues" src="https://img.shields.io/github/issues/LazyVim/RB?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41" />
-            </a>
-            <a href="https://github.com/Blood-Gang-Inc">
-                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/RB/RB?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41" />
             </a>
             <a href="https://twitter.com/intent/follow?screen_name=BloodGangInc">
                 <img alt="follow on Twitter" src="https://img.shields.io/twitter/follow/BloodGangInc?style=for-the-badge&logo=twitter&color=8aadf3&logoColor=D9E0EE&labelColor=302D41" />
@@ -36,9 +27,7 @@
     </div>
     <p>
         RB is a Roblox script that provides chat functionality and more. It allows you to enhance your Roblox experience with additional features.
-        <a>
-            <img alt = "" scr = "https://static.wixstatic.com/media/4585c8_a2b15d8601df488685c5cfa0228b151f~mv2.png/v1/fit/w_510,h_498,q_90/4585c8_a2b15d8601df488685c5cfa0228b151f~mv2.webp" />
-        </a>
+        <img src="[https://www.jguru.com/wp-content/uploads/2021/07/image-134.png](https://static.wixstatic.com/media/4585c8_a2b15d8601df488685c5cfa0228b151f~mv2.png/v1/fit/w_510,h_498,q_90/4585c8_a2b15d8601df488685c5cfa0228b151f~mv2.webp)">
     </p>
     <p>
         RB is actively maintained and regularly updated. You can find the latest release on the GitHub repository. It comes with documentation to help you get started.
