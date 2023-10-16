@@ -8,27 +8,22 @@
             margin: 0;
             padding: 20px;
         }
-
         h1 {
             font-size: 24px;
         }
-
         p {
             font-size: 16px;
             margin: 0;
         }
-
         code {
             background-color: #f0f0f0;
             padding: 2px 4px;
             border: 1px solid #ccc;
             border-radius: 4px;
         }
-
         ul {
             list-style-type: none;
         }
-
         li {
             margin-bottom: 10px;
         }
@@ -36,8 +31,7 @@
 </head>
 <body>
     <h1>GitHub Files</h1>
-    <p>Here is a list of scripts:</p>
-    
+    <p>Here is a list of scripts:</p>  
     <ul>
         <li><code>require(11474365978)("V6")</code></li>
         <li><code>require(11474380470)("V5")</code></li>
