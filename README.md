@@ -11,22 +11,10 @@
 
 <div align="center">
     <p>
-        <a href="https://github.com/Blood-Gang-Inc/RB/releases/latest">
-            <img alt="Latest release" src="https://img.shields.io/github/v/release/Blood-Gang-Inc/RB?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41&include_prerelease&sort=semver" />
-        </a>
-        <a href="https://github.com/Blood-Gang-Inc/RB/pulse">
-            <img alt="Last commit" src="https://img.shields.io/github/last-commit/RB?style=for-the-badge&logo=starship&color=8bd5ca&logoColor=D9E0EE&labelColor=302D41"/>
-        </a>
         <a href="https://github.com/Blood-Gang-Inc/RB/blob/Roblox/LICENSE.lua">
             <img alt="License" src="https://img.shields.io/github/license/Blood-Gang-Inc/RB?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41" />
         </a>
-        <a href="https://github.com/LazyVim/LazyVim/issues">
-            <img alt="Issues" src="https://img.shields.io/github/issues/LazyVim/RB?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41" />
-        </a>
-        <a href="https://github.com/LazyVim/LazyVim">
-            <img alt="Repo Size" src="https://img.shields.io/github/repo-size/RB/RB?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41" />
-        </a>
-        <a href="https://twitter.com/intent/follow?screen_name=folke">
+        <a href="https://twitter.com/intent/follow?screen_name=BloodGangInc">
             <img alt="follow on Twitter" src="https://img.shields.io/twitter/follow/BloodGangInc?style=for-the-badge&logo=twitter&color=8aadf3&logoColor=D9E0EE&labelColor=302D41" />
         </a>
     </p>
