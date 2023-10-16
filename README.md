@@ -1,15 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>RB - Roblox Chat Functionality</title>
-</head>
-<body>
 <div align="center">
     <img src="https://www.jguru.com/wp-content/uploads/2021/07/image-134.png" alt="RB Logo">
 </div>
-
-<hr>
-
 <h4 align="center">
     <a href="https://www.youtube.com/watch?v=EOWGmf0aeR4&pp=ygURcm9ibG94IGluc3RhbGxpb24%3D">Install</a>
     ·
