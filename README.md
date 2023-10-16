@@ -6,7 +6,7 @@
     ·
     <a href="https://www.youtube.com/watch?v=aI5SXkPKwnw&t=8s&pp=ygUMNHp4MTYgcm9ibG94">Configure</a>
     ·
-    <a href="https://github.com/Blood-Gang-Inc/RB">Docs</a>
+    <a href="https://github.com/Blood-Gang-Inc/RB/blob/Roblox/Docs.md">Docs</a>
 </h4>
 <div align="center">
     <a href="https://discord.gg/h76YQ6DazC" target="_blank">
