@@ -6,7 +6,7 @@
 <hr>
 
 <h4 align="center">
-  <a href="https://www.youtube.com/watch?v=aI5SXkPKwnw&t=8s&pp=ygUMNHp4MTYgcm9ibG94">Install</a>
+  <a href="https://www.youtube.com/watch?v=EOWGmf0aeR4&pp=ygURcm9ibG94IGluc3RhbGxpb24%3D">Install</a>
   ·
   <a href="https://www.youtube.com/watch?v=aI5SXkPKwnw&t=8s&pp=ygUMNHp4MTYgcm9ibG94">Configure</a>
   ·
@@ -14,17 +14,14 @@
 </h4>
 
 <div align="center"><p>
-    <a href="https://github.com/LazyVim/LazyVim/releases/latest">
+    <a href="https://github.com/Blood-Gang-Inc/RB/releases/latest">
       <img alt="Latest release" src="https://img.shields.io/github/v/release/Blood-Gang-Inc/RB?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41&include_prerelease&sort=semver" />
     </a>
     <a href="https://github.com/Blood-Gang-Inc/RB/pulse">
       <img alt="Last commit" src="https://img.shields.io/github/last-commit/RB?style=for-the-badge&logo=starship&color=8bd5ca&logoColor=D9E0EE&labelColor=302D41"/>
     </a>
-    <a href="https://github.com/LazyVim/LazyVim/blob/main/LICENSE">
-      <img alt="License" src="https://img.shields.io/github/license/RB/RB?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41" />
-    </a>
-    <a href="https://github.com/LazyVim/LazyVim/stargazers">
-      <img alt="Stars" src="https://img.shields.io/github/stars/LazyVim/RB?style=for-the-badge&logo=starship&color=c69ff5&logoColor=D9E0EE&labelColor=302D41" />
+    <a href="https://github.com/Blood-Gang-Inc/RB/blob/Roblox/LICENSE.lua">
+      <img alt="License" src="https://img.shields.io/github/license/Blood-Gang-Inc/RB?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41" />
     </a>
     <a href="https://github.com/LazyVim/LazyVim/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/LazyVim/RB?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41" />
