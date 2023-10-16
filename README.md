@@ -1,16 +1,16 @@
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/292349/213446185-2db63fd5-8c84-459c-9f04-e286382d6e80.png">
+  <img src="https://www.jguru.com/wp-content/uploads/2021/07/image-134.png">
 </div>
 
 <hr>
 
 <h4 align="center">
-  <a href="https://lazyvim.github.io/installation">Install</a>
+  <a href="https://www.youtube.com/watch?v=aI5SXkPKwnw&t=8s&pp=ygUMNHp4MTYgcm9ibG94">Install</a>
   ·
-  <a href="https://lazyvim.github.io/configuration">Configure</a>
+  <a href="https://www.youtube.com/watch?v=aI5SXkPKwnw&t=8s&pp=ygUMNHp4MTYgcm9ibG94">Configure</a>
   ·
-  <a href="https://lazyvim.github.io">Docs</a>
+  <a href="https://github.com/Blood-Gang-Inc/RB">Docs</a>
 </h4>
 
 <div align="center"><p>
@@ -18,22 +18,22 @@
       <img alt="Latest release" src="https://img.shields.io/github/v/release/LazyVim/LazyVim?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41&include_prerelease&sort=semver" />
     </a>
     <a href="https://github.com/LazyVim/LazyVim/pulse">
-      <img alt="Last commit" src="https://img.shields.io/github/last-commit/LazyVim/LazyVim?style=for-the-badge&logo=starship&color=8bd5ca&logoColor=D9E0EE&labelColor=302D41"/>
+      <img alt="Last commit" src="https://img.shields.io/github/last-commit/RB?style=for-the-badge&logo=starship&color=8bd5ca&logoColor=D9E0EE&labelColor=302D41"/>
     </a>
     <a href="https://github.com/LazyVim/LazyVim/blob/main/LICENSE">
-      <img alt="License" src="https://img.shields.io/github/license/LazyVim/LazyVim?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41" />
+      <img alt="License" src="https://img.shields.io/github/license/RB/LazyVim?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41" />
     </a>
     <a href="https://github.com/LazyVim/LazyVim/stargazers">
-      <img alt="Stars" src="https://img.shields.io/github/stars/LazyVim/LazyVim?style=for-the-badge&logo=starship&color=c69ff5&logoColor=D9E0EE&labelColor=302D41" />
+      <img alt="Stars" src="https://img.shields.io/github/stars/LazyVim/RB?style=for-the-badge&logo=starship&color=c69ff5&logoColor=D9E0EE&labelColor=302D41" />
     </a>
     <a href="https://github.com/LazyVim/LazyVim/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/LazyVim/LazyVim?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/LazyVim/RB?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41" />
     </a>
     <a href="https://github.com/LazyVim/LazyVim">
-      <img alt="Repo Size" src="https://img.shields.io/github/repo-size/LazyVim/LazyVim?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41" />
+      <img alt="Repo Size" src="https://img.shields.io/github/repo-size/RB/LazyVim?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41" />
     </a>
     <a href="https://twitter.com/intent/follow?screen_name=folke">
-      <img alt="follow on Twitter" src="https://img.shields.io/twitter/follow/folke?style=for-the-badge&logo=twitter&color=8aadf3&logoColor=D9E0EE&labelColor=302D41" />
+      <img alt="follow on Twitter" src="https://img.shields.io/twitter/follow/BloodGangInc?style=for-the-badge&logo=twitter&color=8aadf3&logoColor=D9E0EE&labelColor=302D41" />
     </a>
 </div>
 
