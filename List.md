@@ -1,5 +1,5 @@
 <body>
-    <h1>GitHub Files</h1>
+    <h1>Current Releases</h1>
     <p>Here is a list of scripts:</p>  
     <ul>
         <li><code>require(11474365978)("V6")</code></li>
